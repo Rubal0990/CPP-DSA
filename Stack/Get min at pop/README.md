@@ -41,4 +41,4 @@ popping 1: min in the stack is 1. popped 1.
 ```
 
 ## Constraints
-* 1 <= Ai <= 107
+* 1 <= Ai <= 10<sup>7</sup>
